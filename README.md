@@ -8,6 +8,8 @@
 	</picture>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=smz-exe&theme=ambient-gradient&hide_border=true)](https://github.com/smz-exe)
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smz-exe&count_private=true&theme=transparent"/>
 </div>
