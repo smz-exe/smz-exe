@@ -8,12 +8,4 @@
 	</picture>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=smz-exe&theme=ambient-gradient&hide_border=true)](https://github.com/smz-exe)
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smz-exe&count_private=true&theme=transparent"/>
-</div>
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; margin-bottom: 1rem;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smz-exe&count_private=true&theme=transparent" style="margin-right: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smz-exe&count_private=true&theme=transparent&utcOffset=+9.00" style="margin-left: 10px;"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=sms-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
