@@ -8,4 +8,4 @@
 	</picture>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=sms-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
+[![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=smz-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
