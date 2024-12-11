@@ -8,14 +8,12 @@
 	</picture>
 </div>
   
-<br><br>
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=smz-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
 
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py,discordjs" />
-  </a>
+　<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py,discordjs" />
 </p>
