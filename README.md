@@ -15,5 +15,5 @@
 <br>
 
 <p align="center">
-　<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,py,discordjs" />
+　<img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,py,fastapi,tensorflow,cpp,rust" />
 </p>
